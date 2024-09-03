@@ -5,7 +5,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |   # | Title                         | Done | Live View |
 | --: | ----------------------------- | ---- | --------- |
 |   1 | Expanding Cards               | Yes  | [Link]()  |
-|   2 | Progress Steps                | No   | [Link]()  |
+|   2 | Progress Steps                | Yes  | [Link]()  |
 |   3 | Rotating Navigation Animation | No   | [Link]()  |
 |   4 | Hidden Search Widget          | No   | [Link]()  |
 |   5 | Blurry Loading                | No   | [Link]()  |
