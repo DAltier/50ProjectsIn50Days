@@ -8,7 +8,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |   2 | Progress Steps                | Yes  | [Link]()  |
 |   3 | Rotating Navigation Animation | Yes  | [Link]()  |
 |   4 | Hidden Search Widget          | Yes  | [Link]()  |
-|   5 | Blurry Loading                | No   | [Link]()  |
+|   5 | Blurry Loading                | Yes  | [Link]()  |
 |   6 | Scroll Animation              | No   | [Link]()  |
 |   7 | Split Landing Page            | No   | [Link]()  |
 |   8 | Form Wave                     | No   | [Link]()  |
