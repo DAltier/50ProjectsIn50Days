@@ -9,8 +9,8 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |   3 | Rotating Navigation Animation | Yes  | [Link]()  |
 |   4 | Hidden Search Widget          | Yes  | [Link]()  |
 |   5 | Blurry Loading                | Yes  | [Link]()  |
-|   6 | Scroll Animation              | No   | [Link]()  |
-|   7 | Split Landing Page            | No   | [Link]()  |
+|   6 | Scroll Animation              | Yes  | [Link]()  |
+|   7 | Split Landing Page            | Yes  | [Link]()  |
 |   8 | Form Wave                     | No   | [Link]()  |
 |   9 | Sound Board                   | No   | [Link]()  |
 |  10 | Dad Jokes                     | No   | [Link]()  |
