@@ -11,7 +11,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |   5 | Blurry Loading                | Yes  | [Link]()  |
 |   6 | Scroll Animation              | Yes  | [Link]()  |
 |   7 | Split Landing Page            | Yes  | [Link]()  |
-|   8 | Form Wave                     | No   | [Link]()  |
+|   8 | Form Wave                     | Yes  | [Link]()  |
 |   9 | Sound Board                   | No   | [Link]()  |
 |  10 | Dad Jokes                     | No   | [Link]()  |
 |  11 | Event Keycodes                | No   | [Link]()  |
