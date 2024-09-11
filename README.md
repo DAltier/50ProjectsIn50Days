@@ -12,8 +12,8 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |   6 | Scroll Animation              | Yes  | [Link]()  |
 |   7 | Split Landing Page            | Yes  | [Link]()  |
 |   8 | Form Wave                     | Yes  | [Link]()  |
-|   9 | Sound Board                   | No   | [Link]()  |
-|  10 | Dad Jokes                     | No   | [Link]()  |
+|   9 | Sound Board                   | Yes  | [Link]()  |
+|  10 | Dad Jokes                     | Yes  | [Link]()  |
 |  11 | Event Keycodes                | No   | [Link]()  |
 |  12 | Faq Collapse                  | No   | [Link]()  |
 |  13 | Random Choice Picker          | No   | [Link]()  |
