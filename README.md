@@ -14,7 +14,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |   8 | Form Wave                     | Yes  | [Link]()  |
 |   9 | Sound Board                   | Yes  | [Link]()  |
 |  10 | Dad Jokes                     | Yes  | [Link]()  |
-|  11 | Event Keycodes                | No   | [Link]()  |
+|  11 | Event Keycodes                | Yes  | [Link]()  |
 |  12 | Faq Collapse                  | No   | [Link]()  |
 |  13 | Random Choice Picker          | No   | [Link]()  |
 |  14 | Animated Navigation           | No   | [Link]()  |
