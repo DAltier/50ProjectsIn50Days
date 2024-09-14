@@ -16,7 +16,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  10 | Dad Jokes                     | Yes  | [Link]()  |
 |  11 | Event Keycodes                | Yes  | [Link]()  |
 |  12 | Faq Collapse                  | Yes  | [Link]()  |
-|  13 | Random Choice Picker          | No   | [Link]()  |
+|  13 | Random Choice Picker          | Yes  | [Link]()  |
 |  14 | Animated Navigation           | No   | [Link]()  |
 |  15 | Incrementing Counter          | No   | [Link]()  |
 |  16 | Drink Water                   | No   | [Link]()  |
