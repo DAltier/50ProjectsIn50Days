@@ -18,7 +18,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  12 | Faq Collapse                  | Yes  | [Link]()  |
 |  13 | Random Choice Picker          | Yes  | [Link]()  |
 |  14 | Animated Navigation           | Yes  | [Link]()  |
-|  15 | Incrementing Counter          | No   | [Link]()  |
+|  15 | Incrementing Counter          | Yes  | [Link]()  |
 |  16 | Drink Water                   | No   | [Link]()  |
 |  17 | Movie App                     | No   | [Link]()  |
 |  18 | Background Slider             | No   | [Link]()  |
