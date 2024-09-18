@@ -20,7 +20,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  14 | Animated Navigation           | Yes  | [Link]()  |
 |  15 | Incrementing Counter          | Yes  | [Link]()  |
 |  16 | Drink Water                   | Yes  | [Link]()  |
-|  17 | Movie App                     | No   | [Link]()  |
+|  17 | Movie App                     | Yes  | [Link]()  |
 |  18 | Background Slider             | No   | [Link]()  |
 |  19 | Theme Clock                   | No   | [Link]()  |
 |  20 | Button Ripple Effect          | No   | [Link]()  |
