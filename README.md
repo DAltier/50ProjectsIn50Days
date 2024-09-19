@@ -21,7 +21,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  15 | Incrementing Counter          | Yes  | [Link]()  |
 |  16 | Drink Water                   | Yes  | [Link]()  |
 |  17 | Movie App                     | Yes  | [Link]()  |
-|  18 | Background Slider             | No   | [Link]()  |
+|  18 | Background Slider             | Yes  | [Link]()  |
 |  19 | Theme Clock                   | No   | [Link]()  |
 |  20 | Button Ripple Effect          | No   | [Link]()  |
 |  21 | Drag N Drop                   | No   | [Link]()  |
