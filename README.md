@@ -23,7 +23,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  17 | Movie App                     | Yes  | [Link]()  |
 |  18 | Background Slider             | Yes  | [Link]()  |
 |  19 | Theme Clock                   | Yes  | [Link]()  |
-|  20 | Button Ripple Effect          | No   | [Link]()  |
+|  20 | Button Ripple Effect          | Yes  | [Link]()  |
 |  21 | Drag N Drop                   | No   | [Link]()  |
 |  22 | Drawing App                   | No   | [Link]()  |
 |  23 | Kinetic Loader                | No   | [Link]()  |
