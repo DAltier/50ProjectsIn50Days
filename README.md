@@ -24,7 +24,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  18 | Background Slider             | Yes  | [Link]()  |
 |  19 | Theme Clock                   | Yes  | [Link]()  |
 |  20 | Button Ripple Effect          | Yes  | [Link]()  |
-|  21 | Drag N Drop                   | No   | [Link]()  |
+|  21 | Drag N Drop                   | Yes  | [Link]()  |
 |  22 | Drawing App                   | No   | [Link]()  |
 |  23 | Kinetic Loader                | No   | [Link]()  |
 |  24 | Content Placeholder           | No   | [Link]()  |
