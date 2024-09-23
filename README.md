@@ -25,7 +25,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  19 | Theme Clock                   | Yes  | [Link]()  |
 |  20 | Button Ripple Effect          | Yes  | [Link]()  |
 |  21 | Drag N Drop                   | Yes  | [Link]()  |
-|  22 | Drawing App                   | No   | [Link]()  |
+|  22 | Drawing App                   | Yes  | [Link]()  |
 |  23 | Kinetic Loader                | No   | [Link]()  |
 |  24 | Content Placeholder           | No   | [Link]()  |
 |  25 | Sticky Navbar                 | No   | [Link]()  |
