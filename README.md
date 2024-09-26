@@ -28,7 +28,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  22 | Drawing App                   | Yes  | [Link]()  |
 |  23 | Kinetic Loader                | Yes  | [Link]()  |
 |  24 | Content Placeholder           | Yes  | [Link]()  |
-|  25 | Sticky Navbar                 | No   | [Link]()  |
+|  25 | Sticky Navbar                 | Yes  | [Link]()  |
 |  26 | Double Vertical Slider        | No   | [Link]()  |
 |  27 | Toast Notification            | No   | [Link]()  |
 |  28 | Github Profiles               | No   | [Link]()  |
