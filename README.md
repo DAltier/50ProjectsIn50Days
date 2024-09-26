@@ -29,7 +29,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  23 | Kinetic Loader                | Yes  | [Link]()  |
 |  24 | Content Placeholder           | Yes  | [Link]()  |
 |  25 | Sticky Navbar                 | Yes  | [Link]()  |
-|  26 | Double Vertical Slider        | No   | [Link]()  |
+|  26 | Double Vertical Slider        | Yes  | [Link]()  |
 |  27 | Toast Notification            | No   | [Link]()  |
 |  28 | Github Profiles               | No   | [Link]()  |
 |  29 | Double Click Heart            | No   | [Link]()  |
