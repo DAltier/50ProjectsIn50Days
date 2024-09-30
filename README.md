@@ -32,7 +32,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  26 | Double Vertical Slider        | Yes  | [Link]()  |
 |  27 | Toast Notification            | Yes  | [Link]()  |
 |  28 | Github Profiles               | Yes  | [Link]()  |
-|  29 | Double Click Heart            | No   | [Link]()  |
+|  29 | Double Click Heart            | Yes  | [Link]()  |
 |  30 | Auto Text Effect              | No   | [Link]()  |
 |  31 | Password Generator            | No   | [Link]()  |
 |  32 | Good Cheap Fast               | No   | [Link]()  |
