@@ -33,7 +33,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  27 | Toast Notification            | Yes  | [Link]()  |
 |  28 | Github Profiles               | Yes  | [Link]()  |
 |  29 | Double Click Heart            | Yes  | [Link]()  |
-|  30 | Auto Text Effect              | No   | [Link]()  |
+|  30 | Auto Text Effect              | Yes  | [Link]()  |
 |  31 | Password Generator            | No   | [Link]()  |
 |  32 | Good Cheap Fast               | No   | [Link]()  |
 |  33 | Notes App                     | No   | [Link]()  |
