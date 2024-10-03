@@ -35,7 +35,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  29 | Double Click Heart            | Yes  | [Link]()  |
 |  30 | Auto Text Effect              | Yes  | [Link]()  |
 |  31 | Password Generator            | Yes  | [Link]()  |
-|  32 | Good Cheap Fast               | No   | [Link]()  |
+|  32 | Good Cheap Fast               | Yes  | [Link]()  |
 |  33 | Notes App                     | No   | [Link]()  |
 |  34 | Animated Countdown            | No   | [Link]()  |
 |  35 | Image Carousel                | No   | [Link]()  |
