@@ -37,8 +37,8 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  31 | Password Generator            | Yes  | [Link]()  |
 |  32 | Good Cheap Fast               | Yes  | [Link]()  |
 |  33 | Notes App                     | Yes  | [Link]()  |
-|  34 | Animated Countdown            | No   | [Link]()  |
-|  35 | Image Carousel                | No   | [Link]()  |
+|  34 | Animated Countdown            | Yes  | [Link]()  |
+|  35 | Image Carousel                | Yes  | [Link]()  |
 |  36 | Hoverboard                    | No   | [Link]()  |
 |  37 | Pokedex                       | No   | [Link]()  |
 |  38 | Mobile Tab Navigation         | No   | [Link]()  |
