@@ -39,7 +39,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  33 | Notes App                     | Yes  | [Link]()  |
 |  34 | Animated Countdown            | Yes  | [Link]()  |
 |  35 | Image Carousel                | Yes  | [Link]()  |
-|  36 | Hoverboard                    | No   | [Link]()  |
+|  36 | Hoverboard                    | Yes  | [Link]()  |
 |  37 | Pokedex                       | No   | [Link]()  |
 |  38 | Mobile Tab Navigation         | No   | [Link]()  |
 |  39 | Password Strength Background  | No   | [Link]()  |
