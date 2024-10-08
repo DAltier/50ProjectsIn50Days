@@ -40,7 +40,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  34 | Animated Countdown            | Yes  | [Link]()  |
 |  35 | Image Carousel                | Yes  | [Link]()  |
 |  36 | Hoverboard                    | Yes  | [Link]()  |
-|  37 | Pokedex                       | No   | [Link]()  |
+|  37 | Pokedex                       | Yes  | [Link]()  |
 |  38 | Mobile Tab Navigation         | No   | [Link]()  |
 |  39 | Password Strength Background  | No   | [Link]()  |
 |  40 | 3d Background Boxes           | No   | [Link]()  |
