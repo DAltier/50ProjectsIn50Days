@@ -41,8 +41,8 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  35 | Image Carousel                | Yes  | [Link]()  |
 |  36 | Hoverboard                    | Yes  | [Link]()  |
 |  37 | Pokedex                       | Yes  | [Link]()  |
-|  38 | Mobile Tab Navigation         | No   | [Link]()  |
-|  39 | Password Strength Background  | No   | [Link]()  |
+|  38 | Mobile Tab Navigation         | Yes  | [Link]()  |
+|  39 | Password Strength Background  | Yes  | [Link]()  |
 |  40 | 3d Background Boxes           | No   | [Link]()  |
 |  41 | Verify Account UI             | No   | [Link]()  |
 |  42 | Live User Filter              | No   | [Link]()  |
