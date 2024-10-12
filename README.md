@@ -44,7 +44,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  38 | Mobile Tab Navigation         | Yes  | [Link]()  |
 |  39 | Password Strength Background  | Yes  | [Link]()  |
 |  40 | 3d Background Boxes           | Yes  | [Link]()  |
-|  41 | Verify Account UI             | No   | [Link]()  |
+|  41 | Verify Account UI             | Yes  | [Link]()  |
 |  42 | Live User Filter              | No   | [Link]()  |
 |  43 | Feedback UI Design            | No   | [Link]()  |
 |  44 | Custom Range Slider           | No   | [Link]()  |
