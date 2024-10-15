@@ -47,7 +47,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  41 | Verify Account UI             | Yes  | [Link]()  |
 |  42 | Live User Filter              | Yes  | [Link]()  |
 |  43 | Feedback UI Design            | Yes  | [Link]()  |
-|  44 | Custom Range Slider           | No   | [Link]()  |
+|  44 | Custom Range Slider           | Yes  | [Link]()  |
 |  45 | Netflix Mobile Navigation     | No   | [Link]()  |
 |  46 | Quiz App                      | No   | [Link]()  |
 |  47 | Testimonial Box Switcher      | No   | [Link]()  |
