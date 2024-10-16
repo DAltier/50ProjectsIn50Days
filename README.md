@@ -49,7 +49,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  43 | Feedback UI Design            | Yes  | [Link]()  |
 |  44 | Custom Range Slider           | Yes  | [Link]()  |
 |  45 | Netflix Mobile Navigation     | Yes  | [Link]()  |
-|  46 | Quiz App                      | No   | [Link]()  |
+|  46 | Quiz App                      | Yes  | [Link]()  |
 |  47 | Testimonial Box Switcher      | No   | [Link]()  |
 |  48 | Random Image Feed             | No   | [Link]()  |
 |  49 | Todo List                     | No   | [Link]()  |
