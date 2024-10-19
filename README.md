@@ -51,7 +51,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  45 | Netflix Mobile Navigation     | Yes  | [Link]()  |
 |  46 | Quiz App                      | Yes  | [Link]()  |
 |  47 | Testimonial Box Switcher      | Yes  | [Link]()  |
-|  48 | Random Image Feed             | No   | [Link]()  |
+|  48 | Random Image Feed             | Yes  | [Link]()  |
 |  49 | Todo List                     | No   | [Link]()  |
 |  50 | Insect Catch Game             | No   | [Link]()  |
 |  51 | Simple Timer (Bonus Day 1)    | No   | [Link]()  |
