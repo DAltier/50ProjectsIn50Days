@@ -53,5 +53,5 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  47 | Testimonial Box Switcher      | Yes  | [Link]()  |
 |  48 | Random Image Feed             | Yes  | [Link]()  |
 |  49 | Todo List                     | Yes  | [Link]()  |
-|  50 | Insect Catch Game             | No   | [Link]()  |
-|  51 | Simple Timer (Bonus Day 1)    | No   | [Link]()  |
+|  50 | Insect Catch Game             | Yes  | [Link]()  |
+|  51 | Simple Timer (Bonus Day 1)    | Yes  | [Link]()  |
