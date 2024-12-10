@@ -17,9 +17,9 @@ body {
 }
 
 button {
-  background-color: purple;
+  background-color: #33bdb5;
   color: #fff;
-  border: 1px purple solid;
+  border: 1px #33bdb5 solid;
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 2px;
