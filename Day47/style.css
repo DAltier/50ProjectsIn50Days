@@ -18,8 +18,8 @@ body {
 }
 
 .testimonial-container {
-  background-color: #476ce4;
-  color: #fff;
+  background-color: #7bdaf3;
+  color: #000;
   border-radius: 15px;
   margin: 20px auto;
   padding: 50px 80px;
@@ -28,7 +28,7 @@ body {
 }
 
 .fa-quote {
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(0, 0, 0, 0.3);
   font-size: 28px;
   position: absolute;
   top: 70px;
