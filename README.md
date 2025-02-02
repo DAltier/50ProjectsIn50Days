@@ -54,4 +54,3 @@ This is a purely project-based course. It is geared toward beginners, but interm
 |  48 | Random Image Feed             | Yes  | [Link]()  |
 |  49 | Todo List                     | Yes  | [Link]()  |
 |  50 | Insect Catch Game             | Yes  | [Link]()  |
-|  51 | Simple Timer (Bonus Day 1)    | Yes  | [Link]()  |
