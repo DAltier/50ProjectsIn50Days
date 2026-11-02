@@ -1,6 +1,6 @@
 50 Projects In 50 Days - HTML, CSS & JavaScript (https://www.udemy.com/course/50-projects-50-days/)
 
-This is a purely project-based course. It is geared toward beginners, but intermediate developers can also enjoy creating new things. This course includes 50+ mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model). Here is a list of what we will create in this course:
+This is a purely project-based course. It is geared toward beginners, but intermediate developers can also enjoy creating new things. This course includes 50+ mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model). Here is a list of projects:
 
 |   # | Title                         | Done | Live View                                                                                |
 | --: | ----------------------------- | ---- | ---------------------------------------------------------------------------------------- |
